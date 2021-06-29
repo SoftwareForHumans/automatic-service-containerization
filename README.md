@@ -7,7 +7,7 @@ All the materuals developed during the development of my research "Automatic Ser
 1. Download the main repository and its subprojects with:
 
 ```bash
-git clone --recurse-submodules git@github.com:Raidenkyu/FEUP-DISS.git
+git clone --recurse-submodules git@github.com:Raidenkyu/automatic-service-containerization.git
 ```
 
 2. change to the `hermit/` directory and run:
