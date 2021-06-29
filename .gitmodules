@@ -1,0 +1,12 @@
+[submodule "hermit"]
+	path = hermit
+	url = git@github.com:Raidenkyu/hermit.git
+[submodule "dockerfile-diff"]
+	path = dockerfile-diff
+	url = git@github.com:Raidenkyu/dockerfile-diff.git
+[submodule "hermit-study"]
+	path = hermit-study
+	url = git@github.com:Raidenkyu/hermit-study.git
+[submodule "projects-fetcher"]
+	path = projects-fetcher
+	url = git@github.com:Raidenkyu/projects-fetcher.git
