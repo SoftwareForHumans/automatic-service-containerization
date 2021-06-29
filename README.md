@@ -1,5 +1,5 @@
 # FEUP-DISS
-All the materuals developed during the development of my research "Automatic Service Containerization with Docker", which is the basis of my master thesis and of a scientific paper that will be published posteriorly.
+All the materials developed during the development of my research "Automatic Service Containerization with Docker", which is the basis of my master thesis and of a scientific paper that will be published posteriorly.
 
 
 ## Instructions to replicate our study
